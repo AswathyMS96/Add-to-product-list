@@ -1,5 +1,6 @@
-**Simple Shopping List**
- Create functions for the following,
+**Simple Product List**
+
+ # Create functions for the following,
 
 ``1.Create an Empty Shopping List:
      Make a new shopping list.``
